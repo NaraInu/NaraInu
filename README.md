@@ -4,4 +4,5 @@
 - 💞️ eu procuro colaborar com o Github e com pessoas pela criação de meus próprios jogos e apps...
 - 📫 omo chegar em mim pelo email vitor.floriano@escola.pr.gov.br...
 
-
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
